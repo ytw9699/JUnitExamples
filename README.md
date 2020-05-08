@@ -1,2 +1,2 @@
-# JUnit-test
-JUnit test
+# JUnitExamples
+JUnitExamples
